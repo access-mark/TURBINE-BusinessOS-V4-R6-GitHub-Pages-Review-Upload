@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://access-mark.github.io/TURBINE-BusinessOS-V4-R6-Narrative-Visual-Polish-Review/sitemap.xml

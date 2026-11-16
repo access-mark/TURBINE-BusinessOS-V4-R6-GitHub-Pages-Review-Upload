@@ -1,0 +1,6673 @@
+{
+  "roles": [
+    {
+      "id": "access-control-installer",
+      "name": "Access Control Installer",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "accommodation-manager",
+      "name": "Accommodation Manager",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "accountant",
+      "name": "Accountant",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": [
+        "accounting practice",
+        "accounting services"
+      ]
+    },
+    {
+      "id": "accounts-manager",
+      "name": "Accounts Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "actuary",
+      "name": "Actuary",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "administrative-freelancer",
+      "name": "Administrative Freelancer",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "advertising-account-manager",
+      "name": "Advertising Account Manager",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "advertising-agency-owner",
+      "name": "Advertising Agency Owner",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "advocate",
+      "name": "Advocate",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "aesthetic-clinic-administrator",
+      "name": "Aesthetic Clinic Administrator",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "aftercare-centre-owner",
+      "name": "Aftercare Centre Owner",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "agricultural-consultant",
+      "name": "Agricultural Consultant",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "agricultural-contractor",
+      "name": "Agricultural Contractor",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "agricultural-equipment-dealer",
+      "name": "Agricultural Equipment Dealer",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "agricultural-equipment-mechanic",
+      "name": "Agricultural Equipment Mechanic",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "agricultural-logistics-operator",
+      "name": "Agricultural Logistics Operator",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "agronomist",
+      "name": "Agronomist",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "agronomy-consultant",
+      "name": "Agronomy Consultant",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "air-conditioning-technician",
+      "name": "Air Conditioning Technician",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "airbnb-host",
+      "name": "Airbnb Host",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "alarm-installer",
+      "name": "Alarm Installer",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "animation-studio-owner",
+      "name": "Animation Studio Owner",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "animator",
+      "name": "Animator",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "app-developer",
+      "name": "App Developer",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "appliance-repair-technician",
+      "name": "Appliance Repair Technician",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "aquaculture-farmer",
+      "name": "Aquaculture Farmer",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "arborist",
+      "name": "Arborist",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "architect",
+      "name": "Architect",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "art-director",
+      "name": "Art Director",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "artisan-seller",
+      "name": "Artisan Seller",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "assembly-supervisor",
+      "name": "Assembly Supervisor",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "assembly-technician",
+      "name": "Assembly Technician",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "assessor",
+      "name": "Assessor",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "asset-reliability-engineer",
+      "name": "Asset Reliability Engineer",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "association-administrator",
+      "name": "Association Administrator",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "attorney",
+      "name": "Attorney",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "auditor",
+      "name": "Auditor",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "auto-electrician",
+      "name": "Auto Electrician",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "automation-technician",
+      "name": "Automation Technician",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "automotive-parts-manufacturer",
+      "name": "Automotive Parts Manufacturer",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "b-b-owner",
+      "name": "B&B Owner",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "baker",
+      "name": "Baker",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "bakery-manufacturer",
+      "name": "Bakery Manufacturer",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "bakery-owner",
+      "name": "Bakery Owner",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "banqueting-coordinator",
+      "name": "Banqueting Coordinator",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "bar-manager",
+      "name": "Bar Manager",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "bar-owner",
+      "name": "Bar Owner",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "barber-shop-owner",
+      "name": "Barber Shop Owner",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "bathroom-renovation-contractor",
+      "name": "Bathroom Renovation Contractor",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "battery-installer",
+      "name": "Battery Installer",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "beauty-salon-owner",
+      "name": "Beauty Salon Owner",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "beauty-therapist",
+      "name": "Beauty Therapist",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "bed-and-breakfast-owner",
+      "name": "Bed and Breakfast Owner",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "beekeeper",
+      "name": "Beekeeper",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "beneficiary-services-coordinator",
+      "name": "Beneficiary Services Coordinator",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "beverage-producer",
+      "name": "Beverage Producer",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "bicycle-repairer",
+      "name": "Bicycle Repairer",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "blasting-services-contractor",
+      "name": "Blasting Services Contractor",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "body-corporate-manager",
+      "name": "Body Corporate Manager",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "boilermaker",
+      "name": "Boilermaker",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "bookkeeper",
+      "name": "Bookkeeper",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": [
+        "bookkeeping"
+      ]
+    },
+    {
+      "id": "boutique-owner",
+      "name": "Boutique Owner",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "branch-manager",
+      "name": "Branch Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "brand-consultant",
+      "name": "Brand Consultant",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "brand-strategist",
+      "name": "Brand Strategist",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "bricklayer",
+      "name": "Bricklayer",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "bricklaying-contractor",
+      "name": "Bricklaying Contractor",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "building-contractor",
+      "name": "Building Contractor",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "building-inspector",
+      "name": "Building Inspector",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "building-manager",
+      "name": "Building Manager",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "building-materials-merchant",
+      "name": "Building Materials Merchant",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "business-analyst",
+      "name": "Business Analyst",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "business-coach",
+      "name": "Business Coach",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "business-consultant",
+      "name": "Business Consultant",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "business-development-manager",
+      "name": "Business Development Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "business-owner",
+      "name": "Business Owner",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "business-unit-manager",
+      "name": "Business Unit Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "buyer",
+      "name": "Buyer",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "cabinet-maker",
+      "name": "Cabinet Maker",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "cafe-owner",
+      "name": "Cafe Owner",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "car-mechanic",
+      "name": "Car Mechanic",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "career-coach",
+      "name": "Career Coach",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "carpenter",
+      "name": "Carpenter",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "cashier",
+      "name": "Cashier",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "category-manager",
+      "name": "Category Manager",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "caterer",
+      "name": "Caterer",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": [
+        "catering"
+      ]
+    },
+    {
+      "id": "catering-business-owner",
+      "name": "Catering Business Owner",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "catering-manager",
+      "name": "Catering Manager",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "cattle-farmer",
+      "name": "Cattle Farmer",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "cctv-installer",
+      "name": "CCTV Installer",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "ceiling-installer",
+      "name": "Ceiling Installer",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "ceo",
+      "name": "CEO",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "cfo",
+      "name": "CFO",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "charity-manager",
+      "name": "Charity Manager",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "chauffeur",
+      "name": "Chauffeur",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "chef",
+      "name": "Chef",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "chemical-products-manufacturer",
+      "name": "Chemical Products Manufacturer",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "chief-executive-officer",
+      "name": "Chief Executive Officer",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": [
+        "ceo",
+        "chief executive"
+      ]
+    },
+    {
+      "id": "chief-financial-officer",
+      "name": "Chief Financial Officer",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": [
+        "cfo"
+      ]
+    },
+    {
+      "id": "chief-information-officer",
+      "name": "Chief Information Officer",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "chief-operating-officer",
+      "name": "Chief Operating Officer",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": [
+        "coo"
+      ]
+    },
+    {
+      "id": "chief-revenue-officer",
+      "name": "Chief Revenue Officer",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "chief-technology-officer",
+      "name": "Chief Technology Officer",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "chiropractic-practice-owner",
+      "name": "Chiropractic Practice Owner",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "church-administrator",
+      "name": "Church Administrator",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "cio",
+      "name": "CIO",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "civil-contractor",
+      "name": "Civil Contractor",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "civil-engineer",
+      "name": "Civil Engineer",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "cleaning-company-owner",
+      "name": "Cleaning Company Owner",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "clinic-administrator",
+      "name": "Clinic Administrator",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "clothing-manufacturer",
+      "name": "Clothing Manufacturer",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "clothing-retailer",
+      "name": "Clothing Retailer",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "cloud-consultant",
+      "name": "Cloud Consultant",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "cloud-engineer",
+      "name": "Cloud Engineer",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "cnc-operator",
+      "name": "CNC Operator",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "cnc-programmer",
+      "name": "CNC Programmer",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "coffee-shop-owner",
+      "name": "Coffee Shop Owner",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "cold-chain-operator",
+      "name": "Cold Chain Operator",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "cold-storage-manager",
+      "name": "Cold Storage Manager",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "college-administrator",
+      "name": "College Administrator",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "college-owner",
+      "name": "College Owner",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "commercial-builder",
+      "name": "Commercial Builder",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "commercial-cleaner",
+      "name": "Commercial Cleaner",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "commercial-director",
+      "name": "Commercial Director",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "commercial-farmer",
+      "name": "Commercial Farmer",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": [
+        "commercial agriculture"
+      ]
+    },
+    {
+      "id": "commercial-photographer",
+      "name": "Commercial Photographer",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "commercial-property-agent",
+      "name": "Commercial Property Agent",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "commercial-sales-manager",
+      "name": "Commercial Sales Manager",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "communications-consultant",
+      "name": "Communications Consultant",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "community-centre-manager",
+      "name": "Community Centre Manager",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "community-development-worker",
+      "name": "Community Development Worker",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "community-manager",
+      "name": "Community Manager",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "community-organisation-leader",
+      "name": "Community Organisation Leader",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "community-outreach-coordinator",
+      "name": "Community Outreach Coordinator",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "community-project-manager",
+      "name": "Community Project Manager",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "community-scheme-manager",
+      "name": "Community Scheme Manager",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "company-director",
+      "name": "Company Director",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "company-secretary",
+      "name": "Company Secretary",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "compliance-manager",
+      "name": "Compliance Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "compliance-officer",
+      "name": "Compliance Officer",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "computer-repair-technician",
+      "name": "Computer Repair Technician",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "computer-shop-owner",
+      "name": "Computer Shop Owner",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "concrete-contractor",
+      "name": "Concrete Contractor",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "conference-organiser",
+      "name": "Conference Organiser",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "confined-space-services-contractor",
+      "name": "Confined Space Services Contractor",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "construction-company-owner",
+      "name": "Construction Company Owner",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "construction-estimator",
+      "name": "Construction Estimator",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "construction-manager",
+      "name": "Construction Manager",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "construction-procurement-officer",
+      "name": "Construction Procurement Officer",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "construction-project-manager",
+      "name": "Construction Project Manager",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "construction-safety-officer",
+      "name": "Construction Safety Officer",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "consulting-engineer",
+      "name": "Consulting Engineer",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "consulting-entrepreneur",
+      "name": "Consulting Entrepreneur",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "content-creator",
+      "name": "Content Creator",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "content-strategist",
+      "name": "Content Strategist",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "content-writer",
+      "name": "Content Writer",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "contract-manager",
+      "name": "Contract Manager",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "convenience-store-owner",
+      "name": "Convenience Store Owner",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "conveyancing-secretary",
+      "name": "Conveyancing Secretary",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "coo",
+      "name": "COO",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "cooperative-manager",
+      "name": "Cooperative Manager",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "cooperative-owner",
+      "name": "Cooperative Owner",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "copywriter",
+      "name": "Copywriter",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "corporate-trainer",
+      "name": "Corporate Trainer",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "counselling-practice-owner",
+      "name": "Counselling Practice Owner",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "courier",
+      "name": "Courier",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "courier-business-owner",
+      "name": "Courier Business Owner",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "course-creator",
+      "name": "Course Creator",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "craft-seller",
+      "name": "Craft Seller",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "creative-director",
+      "name": "Creative Director",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "creative-project-manager",
+      "name": "Creative Project Manager",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "creche-owner",
+      "name": "Creche Owner",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "credit-controller",
+      "name": "Credit Controller",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "crm-consultant",
+      "name": "CRM Consultant",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "cro",
+      "name": "CRO",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "crop-spraying-contractor",
+      "name": "Crop Spraying Contractor",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "cto",
+      "name": "CTO",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "customer-service-manager",
+      "name": "Customer Service Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "customer-success-manager",
+      "name": "Customer Success Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "customs-broker",
+      "name": "Customs Broker",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "customs-clearing-agent",
+      "name": "Customs Clearing Agent",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "cybersecurity-consultant",
+      "name": "Cybersecurity Consultant",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "dairy-farmer",
+      "name": "Dairy Farmer",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "data-analyst",
+      "name": "Data Analyst",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "data-centre-technician",
+      "name": "Data Centre Technician",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "data-engineer",
+      "name": "Data Engineer",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "database-administrator",
+      "name": "Database Administrator",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "daycare-manager",
+      "name": "Daycare Manager",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "daycare-owner",
+      "name": "Daycare Owner",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "delivery-business-owner",
+      "name": "Delivery Business Owner",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "delivery-coordinator",
+      "name": "Delivery Coordinator",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "delivery-driver",
+      "name": "Delivery Driver",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "demolition-contractor",
+      "name": "Demolition Contractor",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "dental-practice-manager",
+      "name": "Dental Practice Manager",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "dental-receptionist",
+      "name": "Dental Receptionist",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "dentist-practice-owner",
+      "name": "Dentist Practice Owner",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "department-manager",
+      "name": "Department Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "desktop-support-technician",
+      "name": "Desktop Support Technician",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "devops-engineer",
+      "name": "DevOps Engineer",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "dietitian-practice-owner",
+      "name": "Dietitian Practice Owner",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "digital-marketing-consultant",
+      "name": "Digital Marketing Consultant",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "digital-transformation-consultant",
+      "name": "Digital Transformation Consultant",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "dispatch-clerk",
+      "name": "Dispatch Clerk",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "dispatch-manager",
+      "name": "Dispatch Manager",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "dispatch-supervisor",
+      "name": "Dispatch Supervisor",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "distribution-centre-manager",
+      "name": "Distribution Centre Manager",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "distribution-manager",
+      "name": "Distribution Manager",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "distribution-sales-representative",
+      "name": "Distribution Sales Representative",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "distributor",
+      "name": "Distributor",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "division-manager",
+      "name": "Division Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "doctor-practice-owner",
+      "name": "Doctor Practice Owner",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "dog-walker",
+      "name": "Dog Walker",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "domestic-cleaning-service-owner",
+      "name": "Domestic Cleaning Service Owner",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "domestic-worker-entrepreneur",
+      "name": "Domestic Worker Entrepreneur",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "donor-relations-manager",
+      "name": "Donor Relations Manager",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "drilling-contractor",
+      "name": "Drilling Contractor",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "drilling-supervisor",
+      "name": "Drilling Supervisor",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "driving-instructor",
+      "name": "Driving Instructor",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "driving-school-owner",
+      "name": "Driving School Owner",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "dry-cleaning-business-owner",
+      "name": "Dry Cleaning Business Owner",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "drywall-installer",
+      "name": "Drywall Installer",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "early-childhood-development-centre-owner",
+      "name": "Early Childhood Development Centre Owner",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "ecommerce-entrepreneur",
+      "name": "Ecommerce Entrepreneur",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "ecommerce-manager",
+      "name": "Ecommerce Manager",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "education-consultant",
+      "name": "Education Consultant",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "egg-producer",
+      "name": "Egg Producer",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "electrical-contractor",
+      "name": "Electrical Contractor",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "electrical-engineer",
+      "name": "Electrical Engineer",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "electrician",
+      "name": "Electrician",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": [
+        "electrical services",
+        "electrical contractor"
+      ]
+    },
+    {
+      "id": "electronics-manufacturer",
+      "name": "Electronics Manufacturer",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "electronics-retailer",
+      "name": "Electronics Retailer",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "enterprise-owner",
+      "name": "Enterprise Owner",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "enterprise-risk-manager",
+      "name": "Enterprise Risk Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "entrepreneur",
+      "name": "Entrepreneur",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "environmental-consultant",
+      "name": "Environmental Consultant",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "environmental-monitoring-contractor",
+      "name": "Environmental Monitoring Contractor",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "equipment-repair-contractor",
+      "name": "Equipment Repair Contractor",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "erp-consultant",
+      "name": "ERP Consultant",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "estate-agency-principal",
+      "name": "Estate Agency Principal",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "estate-agent",
+      "name": "Estate Agent",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": [
+        "realtor",
+        "real estate broker",
+        "property sales agent",
+        "estate agency"
+      ]
+    },
+    {
+      "id": "estate-manager",
+      "name": "Estate Manager",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "event-decorator",
+      "name": "Event Decorator",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "event-organiser",
+      "name": "Event Organiser",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "event-photographer",
+      "name": "Event Photographer",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "event-planner",
+      "name": "Event Planner",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "event-production-manager",
+      "name": "Event Production Manager",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "events-venue-owner",
+      "name": "Events Venue Owner",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "executive-assistant",
+      "name": "Executive Assistant",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "executive-chef",
+      "name": "Executive Chef",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "executive-coach",
+      "name": "Executive Coach",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "executive-director",
+      "name": "Executive Director",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "executive-pa",
+      "name": "Executive PA",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "executive-search-consultant",
+      "name": "Executive Search Consultant",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "exploration-consultant",
+      "name": "Exploration Consultant",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "facilitator",
+      "name": "Facilitator",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "facilities-coordinator",
+      "name": "Facilities Coordinator",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "facilities-manager",
+      "name": "Facilities Manager",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "factory-manager",
+      "name": "Factory Manager",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "faith-based-organisation-administrator",
+      "name": "Faith-Based Organisation Administrator",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "farm-manager",
+      "name": "Farm Manager",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "farm-owner",
+      "name": "Farm Owner",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "farm-services-contractor",
+      "name": "Farm Services Contractor",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "farm-shop-owner",
+      "name": "Farm Shop Owner",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "farm-stall-owner",
+      "name": "Farm Stall Owner",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "fast-food-franchisee",
+      "name": "Fast Food Franchisee",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "feed-supplier",
+      "name": "Feed Supplier",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "fibre-installer",
+      "name": "Fibre Installer",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "field-service-coordinator",
+      "name": "Field Service Coordinator",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "field-service-manager",
+      "name": "Field Service Manager",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "field-service-supervisor",
+      "name": "Field Service Supervisor",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "field-support-engineer",
+      "name": "Field Support Engineer",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "field-technician",
+      "name": "Field Technician",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "finance-director",
+      "name": "Finance Director",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "finance-manager",
+      "name": "Finance Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "financial-adviser",
+      "name": "Financial Adviser",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "financial-controller",
+      "name": "Financial Controller",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "financial-manager",
+      "name": "Financial Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "financial-planner",
+      "name": "Financial Planner",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "fish-farmer",
+      "name": "Fish Farmer",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "fitness-coach",
+      "name": "Fitness Coach",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "fitness-studio-owner",
+      "name": "Fitness Studio Owner",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "fleet-maintenance-manager",
+      "name": "Fleet Maintenance Manager",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "fleet-manager",
+      "name": "Fleet Manager",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "fleet-owner",
+      "name": "Fleet Owner",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "flooring-contractor",
+      "name": "Flooring Contractor",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "food-and-beverage-manager",
+      "name": "Food and Beverage Manager",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "food-manufacturer",
+      "name": "Food Manufacturer",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "food-truck-owner",
+      "name": "Food Truck Owner",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "footwear-retailer",
+      "name": "Footwear Retailer",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "formwork-contractor",
+      "name": "Formwork Contractor",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "foundation-manager",
+      "name": "Foundation Manager",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "founder",
+      "name": "Founder",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "franchise-owner",
+      "name": "Franchise Owner",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "freelance-bookkeeper",
+      "name": "Freelance Bookkeeper",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "freelance-designer",
+      "name": "Freelance Designer",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "freelance-editor",
+      "name": "Freelance Editor",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "freelance-photographer",
+      "name": "Freelance Photographer",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "freelance-translator",
+      "name": "Freelance Translator",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "freelance-writer",
+      "name": "Freelance Writer",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "freelancer",
+      "name": "Freelancer",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": [
+        "self employed",
+        "freelance"
+      ]
+    },
+    {
+      "id": "freight-broker",
+      "name": "Freight Broker",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "freight-forwarder",
+      "name": "Freight Forwarder",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "fridge-repair-technician",
+      "name": "Fridge Repair Technician",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "fruit-grower",
+      "name": "Fruit Grower",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "fulfilment-manager",
+      "name": "Fulfilment Manager",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "fundraiser",
+      "name": "Fundraiser",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "fundraising-manager",
+      "name": "Fundraising Manager",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "furniture-delivery-service",
+      "name": "Furniture Delivery Service",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "furniture-manufacturer",
+      "name": "Furniture Manufacturer",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "furniture-mover",
+      "name": "Furniture Mover",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "furniture-repairer",
+      "name": "Furniture Repairer",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "furniture-retailer",
+      "name": "Furniture Retailer",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "garage-door-installer",
+      "name": "Garage Door Installer",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "garden-maintenance-contractor",
+      "name": "Garden Maintenance Contractor",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "garden-services-business-owner",
+      "name": "Garden Services Business Owner",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "gardener",
+      "name": "Gardener",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": [
+        "garden services",
+        "garden service",
+        "lawn mowing",
+        "garden maintenance",
+        "garden business"
+      ]
+    },
+    {
+      "id": "gate-automation-technician",
+      "name": "Gate Automation Technician",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "gate-motor-installer",
+      "name": "Gate Motor Installer",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "general-contractor",
+      "name": "General Contractor",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "general-manager",
+      "name": "General Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "general-practitioner-practice-owner",
+      "name": "General Practitioner Practice Owner",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "generator-installer",
+      "name": "Generator Installer",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "generator-technician",
+      "name": "Generator Technician",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "geologist",
+      "name": "Geologist",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "governance-manager",
+      "name": "Governance Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "grain-farmer",
+      "name": "Grain Farmer",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "grant-administrator",
+      "name": "Grant Administrator",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "graphic-designer",
+      "name": "Graphic Designer",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": [
+        "designer",
+        "design studio"
+      ]
+    },
+    {
+      "id": "greenhouse-operator",
+      "name": "Greenhouse Operator",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "grocery-store-owner",
+      "name": "Grocery Store Owner",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "groundworks-contractor",
+      "name": "Groundworks Contractor",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "guest-relations-manager",
+      "name": "Guest Relations Manager",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "guesthouse-owner",
+      "name": "Guesthouse Owner",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "gutter-cleaning-contractor",
+      "name": "Gutter Cleaning Contractor",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "gym-manager",
+      "name": "Gym Manager",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "gym-owner",
+      "name": "Gym Owner",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "hair-salon-owner",
+      "name": "Hair Salon Owner",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "hairdresser",
+      "name": "Hairdresser",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "handyman",
+      "name": "Handyman",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "handyman-business-owner",
+      "name": "Handyman Business Owner",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "hardware-distributor",
+      "name": "Hardware Distributor",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "hardware-store-owner",
+      "name": "Hardware Store Owner",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "hawker",
+      "name": "Hawker",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "health-and-safety-consultant",
+      "name": "Health and Safety Consultant",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "healthcare-services-coordinator",
+      "name": "Healthcare Services Coordinator",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "heavy-equipment-technician",
+      "name": "Heavy Equipment Technician",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "help-desk-analyst",
+      "name": "Help Desk Analyst",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "holiday-let-manager",
+      "name": "Holiday Let Manager",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "holiday-rental-host",
+      "name": "Holiday Rental Host",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "home-baker",
+      "name": "Home Baker",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "home-business-owner",
+      "name": "Home Business Owner",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "home-caterer",
+      "name": "Home Caterer",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "home-delivery-contractor",
+      "name": "Home Delivery Contractor",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "home-maintenance-contractor",
+      "name": "Home Maintenance Contractor",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "home-organiser",
+      "name": "Home Organiser",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "home-renovator",
+      "name": "Home Renovator",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "home-stager",
+      "name": "Home Stager",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "home-based-tutor",
+      "name": "Home-Based Tutor",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "honey-producer",
+      "name": "Honey Producer",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "horticulture-business-owner",
+      "name": "Horticulture Business Owner",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "horticulturist",
+      "name": "Horticulturist",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "hotel-manager",
+      "name": "Hotel Manager",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "hotel-operations-manager",
+      "name": "Hotel Operations Manager",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "hotel-owner",
+      "name": "Hotel Owner",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "house-sitter",
+      "name": "House Sitter",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "housekeeping-manager",
+      "name": "Housekeeping Manager",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "housekeeping-supervisor",
+      "name": "Housekeeping Supervisor",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "hr-director",
+      "name": "HR Director",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "human-resources-consultant",
+      "name": "Human Resources Consultant",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "hvac-contractor",
+      "name": "HVAC Contractor",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "hydraulic-technician",
+      "name": "Hydraulic Technician",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "ict-contractor",
+      "name": "ICT Contractor",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "illustrator",
+      "name": "Illustrator",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "import-export-trader",
+      "name": "Import Export Trader",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "independent-contractor",
+      "name": "Independent Contractor",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "independent-school-owner",
+      "name": "Independent School Owner",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "industrial-cleaning-contractor",
+      "name": "Industrial Cleaning Contractor",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "industrial-electrician",
+      "name": "Industrial Electrician",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "industrial-engineer",
+      "name": "Industrial Engineer",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "industrial-equipment-supplier",
+      "name": "Industrial Equipment Supplier",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "industrial-logistics-coordinator",
+      "name": "Industrial Logistics Coordinator",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "industrial-maintenance-contractor",
+      "name": "Industrial Maintenance Contractor",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "industrial-mechanic",
+      "name": "Industrial Mechanic",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "industrial-procurement-manager",
+      "name": "Industrial Procurement Manager",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "industrial-property-agent",
+      "name": "Industrial Property Agent",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "industrial-safety-manager",
+      "name": "Industrial Safety Manager",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "industrial-workshop-owner",
+      "name": "Industrial Workshop Owner",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "influencer",
+      "name": "Influencer",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "influencer-manager",
+      "name": "Influencer Manager",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "informal-trader",
+      "name": "Informal Trader",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "information-security-officer",
+      "name": "Information Security Officer",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "infrastructure-engineer",
+      "name": "Infrastructure Engineer",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "instrumentation-technician",
+      "name": "Instrumentation Technician",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "insurance-broker",
+      "name": "Insurance Broker",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "interior-architect",
+      "name": "Interior Architect",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "internal-auditor",
+      "name": "Internal Auditor",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "internet-service-provider-owner",
+      "name": "Internet Service Provider Owner",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "interpreter",
+      "name": "Interpreter",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "inventory-clerk",
+      "name": "Inventory Clerk",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "inventory-manager",
+      "name": "Inventory Manager",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "inverter-installer",
+      "name": "Inverter Installer",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "irrigation-contractor",
+      "name": "Irrigation Contractor",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "irrigation-technician",
+      "name": "Irrigation Technician",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "it-asset-manager",
+      "name": "IT Asset Manager",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "it-consultant",
+      "name": "IT Consultant",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "it-procurement-manager",
+      "name": "IT Procurement Manager",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "it-project-manager",
+      "name": "IT Project Manager",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "it-sales-consultant",
+      "name": "IT Sales Consultant",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "it-services-owner",
+      "name": "IT Services Owner",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "it-support-technician",
+      "name": "IT Support Technician",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "joinery-manufacturer",
+      "name": "Joinery Manufacturer",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "kitchen-installer",
+      "name": "Kitchen Installer",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "kitchen-manager",
+      "name": "Kitchen Manager",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "labour-relations-consultant",
+      "name": "Labour Relations Consultant",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "landlord",
+      "name": "Landlord",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "landscaper",
+      "name": "Landscaper",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "landscaping-contractor",
+      "name": "Landscaping Contractor",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "language-teacher",
+      "name": "Language Teacher",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "laundry-service-owner",
+      "name": "Laundry Service Owner",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "lawn-care-contractor",
+      "name": "Lawn Care Contractor",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "learning-and-development-manager",
+      "name": "Learning and Development Manager",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "learning-programme-coordinator",
+      "name": "Learning Programme Coordinator",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "leasing-consultant",
+      "name": "Leasing Consultant",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "legal-practitioner",
+      "name": "Legal Practitioner",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "legal-secretary",
+      "name": "Legal Secretary",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "letting-agent",
+      "name": "Letting Agent",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "life-coach",
+      "name": "Life Coach",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "livestock-farmer",
+      "name": "Livestock Farmer",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "locksmith",
+      "name": "Locksmith",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "lodge-manager",
+      "name": "Lodge Manager",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "lodge-owner",
+      "name": "Lodge Owner",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "logistics-company-owner",
+      "name": "Logistics Company Owner",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "logistics-coordinator",
+      "name": "Logistics Coordinator",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "logistics-manager",
+      "name": "Logistics Manager",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "machine-operator",
+      "name": "Machine Operator",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "maintenance-planner",
+      "name": "Maintenance Planner",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "managed-service-provider-owner",
+      "name": "Managed Service Provider Owner",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "management-consultant",
+      "name": "Management Consultant",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "managing-director",
+      "name": "Managing Director",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "manufacturing-business-owner",
+      "name": "Manufacturing Business Owner",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "market-stall-owner",
+      "name": "Market Stall Owner",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "market-trader",
+      "name": "Market Trader",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "marketing-agency-owner",
+      "name": "Marketing Agency Owner",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "marketing-director",
+      "name": "Marketing Director",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "marketing-manager",
+      "name": "Marketing Manager",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "marketplace-seller",
+      "name": "Marketplace Seller",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "massage-therapist",
+      "name": "Massage Therapist",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "materials-controller",
+      "name": "Materials Controller",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "materials-expeditor",
+      "name": "Materials Expeditor",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "mechanical-engineer",
+      "name": "Mechanical Engineer",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "media-buyer",
+      "name": "Media Buyer",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "media-planner",
+      "name": "Media Planner",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "medical-equipment-service-provider",
+      "name": "Medical Equipment Service Provider",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "medical-practice-manager",
+      "name": "Medical Practice Manager",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "membership-organisation-manager",
+      "name": "Membership Organisation Manager",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "merchandiser",
+      "name": "Merchandiser",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "metal-fabricator",
+      "name": "Metal Fabricator",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "micro-enterprise-owner",
+      "name": "Micro Enterprise Owner",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "microbusiness-owner",
+      "name": "Microbusiness Owner",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "mine-site-supervisor",
+      "name": "Mine Site Supervisor",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "mining-contractor",
+      "name": "Mining Contractor",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "mining-engineer",
+      "name": "Mining Engineer",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "mining-equipment-supplier",
+      "name": "Mining Equipment Supplier",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "mining-operations-manager",
+      "name": "Mining Operations Manager",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "mining-services-owner",
+      "name": "Mining Services Owner",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "mobile-beautician",
+      "name": "Mobile Beautician",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "mobile-food-vendor",
+      "name": "Mobile Food Vendor",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "mobile-hairdresser",
+      "name": "Mobile Hairdresser",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "mobile-mechanic",
+      "name": "Mobile Mechanic",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "mobile-nail-technician",
+      "name": "Mobile Nail Technician",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "mobile-phone-shop-owner",
+      "name": "Mobile Phone Shop Owner",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "moderator",
+      "name": "Moderator",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "motion-graphic-designer",
+      "name": "Motion Graphic Designer",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "motor-spares-retailer",
+      "name": "Motor Spares Retailer",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "motor-vehicle-workshop-owner",
+      "name": "Motor Vehicle Workshop Owner",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "motorbike-mechanic",
+      "name": "Motorbike Mechanic",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "moving-company-owner",
+      "name": "Moving Company Owner",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "msp-manager",
+      "name": "MSP Manager",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "music-teacher",
+      "name": "Music Teacher",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "nail-salon-owner",
+      "name": "Nail Salon Owner",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "network-administrator",
+      "name": "Network Administrator",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "network-engineer",
+      "name": "Network Engineer",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "ngo-director",
+      "name": "NGO Director",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "ngo-operations-manager",
+      "name": "NGO Operations Manager",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "nonprofit-director",
+      "name": "Nonprofit Director",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "nonprofit-founder",
+      "name": "Nonprofit Founder",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": [
+        "npo",
+        "ngo"
+      ]
+    },
+    {
+      "id": "notary",
+      "name": "Notary",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "npo-manager",
+      "name": "NPO Manager",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "nursery-owner",
+      "name": "Nursery Owner",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "nutritionist-practice-owner",
+      "name": "Nutritionist Practice Owner",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "occupational-therapy-practice-owner",
+      "name": "Occupational Therapy Practice Owner",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "office-administrator",
+      "name": "Office Administrator",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "office-manager",
+      "name": "Office Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "online-educator",
+      "name": "Online Educator",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "online-reseller",
+      "name": "Online Reseller",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "online-store-owner",
+      "name": "Online Store Owner",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "online-tutor",
+      "name": "Online Tutor",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "operations-director",
+      "name": "Operations Director",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "operations-manager",
+      "name": "Operations Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "optometrist-practice-owner",
+      "name": "Optometrist Practice Owner",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "optometry-practice-manager",
+      "name": "Optometry Practice Manager",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "order-processor",
+      "name": "Order Processor",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "outreach-worker",
+      "name": "Outreach Worker",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "packaging-manager",
+      "name": "Packaging Manager",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "painter",
+      "name": "Painter",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "painter-decorator",
+      "name": "Painter Decorator",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "painting-contractor",
+      "name": "Painting Contractor",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "panel-beater",
+      "name": "Panel Beater",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "paralegal",
+      "name": "Paralegal",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "pastry-chef",
+      "name": "Pastry Chef",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "paving-contractor",
+      "name": "Paving Contractor",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "payroll-consultant",
+      "name": "Payroll Consultant",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "payroll-manager",
+      "name": "Payroll Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "performance-marketer",
+      "name": "Performance Marketer",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "personal-assistant",
+      "name": "Personal Assistant",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "personal-shopper",
+      "name": "Personal Shopper",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "personal-stylist",
+      "name": "Personal Stylist",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "personal-trainer",
+      "name": "Personal Trainer",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "pest-control-operator",
+      "name": "Pest Control Operator",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "pest-control-technician",
+      "name": "Pest Control Technician",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "pet-groomer",
+      "name": "Pet Groomer",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "pet-sitter",
+      "name": "Pet Sitter",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "pharmacy-retail-owner",
+      "name": "Pharmacy Retail Owner",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "photographer",
+      "name": "Photographer",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "physiotherapist-practice-manager",
+      "name": "Physiotherapist Practice Manager",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "physiotherapy-practice-owner",
+      "name": "Physiotherapy Practice Owner",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "pilates-instructor",
+      "name": "Pilates Instructor",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "plant-maintenance-supervisor",
+      "name": "Plant Maintenance Supervisor",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "plant-manager",
+      "name": "Plant Manager",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "plant-nursery-manager",
+      "name": "Plant Nursery Manager",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "plant-supervisor",
+      "name": "Plant Supervisor",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "plasterer",
+      "name": "Plasterer",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "plastic-products-manufacturer",
+      "name": "Plastic Products Manufacturer",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "plumber",
+      "name": "Plumber",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": [
+        "plumbing",
+        "plumbing services"
+      ]
+    },
+    {
+      "id": "plumbing-contractor",
+      "name": "Plumbing Contractor",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "podcast-editor",
+      "name": "Podcast Editor",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "podcast-producer",
+      "name": "Podcast Producer",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "pool-cleaning-service",
+      "name": "Pool Cleaning Service",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "pool-maintenance-contractor",
+      "name": "Pool Maintenance Contractor",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "pool-technician",
+      "name": "Pool Technician",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "portfolio-manager",
+      "name": "Portfolio Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "poultry-farmer",
+      "name": "Poultry Farmer",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "practice-administrator",
+      "name": "Practice Administrator",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "preschool-owner",
+      "name": "Preschool Owner",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "print-designer",
+      "name": "Print Designer",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "print-shop-owner",
+      "name": "Print Shop Owner",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "printing-factory-owner",
+      "name": "Printing Factory Owner",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "private-chef",
+      "name": "Private Chef",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "private-driver",
+      "name": "Private Driver",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "private-music-teacher",
+      "name": "Private Music Teacher",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "private-shuttle-operator",
+      "name": "Private Shuttle Operator",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "private-tutor",
+      "name": "Private Tutor",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "process-engineer",
+      "name": "Process Engineer",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "process-plant-contractor",
+      "name": "Process Plant Contractor",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "procurement-director",
+      "name": "Procurement Director",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "procurement-manager",
+      "name": "Procurement Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "procurement-planner",
+      "name": "Procurement Planner",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "procurement-specialist",
+      "name": "Procurement Specialist",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "produce-exporter",
+      "name": "Produce Exporter",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "produce-wholesaler",
+      "name": "Produce Wholesaler",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "product-designer",
+      "name": "Product Designer",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "production-engineer",
+      "name": "Production Engineer",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "production-manager",
+      "name": "Production Manager",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "production-planner",
+      "name": "Production Planner",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "production-scheduler",
+      "name": "Production Scheduler",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "professional-editor",
+      "name": "Professional Editor",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "professional-organiser",
+      "name": "Professional Organiser",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "programme-coordinator",
+      "name": "Programme Coordinator",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "programme-director",
+      "name": "Programme Director",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "programme-manager",
+      "name": "Programme Manager",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "project-management-officer",
+      "name": "Project Management Officer",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "project-quantity-surveyor",
+      "name": "Project Quantity Surveyor",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "property-administrator",
+      "name": "Property Administrator",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "property-agent",
+      "name": "Property Agent",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "property-broker",
+      "name": "Property Broker",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "property-consultant",
+      "name": "Property Consultant",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "property-developer",
+      "name": "Property Developer",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "property-development-manager",
+      "name": "Property Development Manager",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "property-investment-consultant",
+      "name": "Property Investment Consultant",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "property-investor",
+      "name": "Property Investor",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "property-maintenance-contractor",
+      "name": "Property Maintenance Contractor",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "property-maintenance-coordinator",
+      "name": "Property Maintenance Coordinator",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "property-manager",
+      "name": "Property Manager",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": [
+        "property management"
+      ]
+    },
+    {
+      "id": "property-portfolio-manager",
+      "name": "Property Portfolio Manager",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "property-practitioner",
+      "name": "Property Practitioner",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "property-rental-broker",
+      "name": "Property Rental Broker",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "property-sales-manager",
+      "name": "Property Sales Manager",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "psychology-practice-administrator",
+      "name": "Psychology Practice Administrator",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "public-relations-agency-owner",
+      "name": "Public Relations Agency Owner",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "public-relations-consultant",
+      "name": "Public Relations Consultant",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "publishing-consultant",
+      "name": "Publishing Consultant",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "purchasing-officer",
+      "name": "Purchasing Officer",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "qse-business-owner",
+      "name": "QSE Business Owner",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": [
+        "qualifying small enterprise business owner",
+        "qse owner"
+      ]
+    },
+    {
+      "id": "qse-finance-manager",
+      "name": "QSE Finance Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "qse-operations-manager",
+      "name": "QSE Operations Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "qse-owner",
+      "name": "QSE Owner",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": [
+        "qualifying small enterprise",
+        "qualifying small enterprises",
+        "qse",
+        "bbb ee",
+        "b-bbee"
+      ]
+    },
+    {
+      "id": "quality-assurance-manager",
+      "name": "Quality Assurance Manager",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "quality-inspector",
+      "name": "Quality Inspector",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "quantity-surveyor",
+      "name": "Quantity Surveyor",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "real-estate-agency-owner",
+      "name": "Real Estate Agency Owner",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "real-estate-agent",
+      "name": "Real Estate Agent",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "real-estate-broker",
+      "name": "Real Estate Broker",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "real-estate-photographer",
+      "name": "Real Estate Photographer",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "recruiter",
+      "name": "Recruiter",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "recruitment-consultant",
+      "name": "Recruitment Consultant",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "recycling-business-owner",
+      "name": "Recycling Business Owner",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "refrigeration-technician",
+      "name": "Refrigeration Technician",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "regional-manager",
+      "name": "Regional Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "religious-organisation-manager",
+      "name": "Religious Organisation Manager",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "remote-administrator",
+      "name": "Remote Administrator",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "removalist",
+      "name": "Removalist",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "renovation-contractor",
+      "name": "Renovation Contractor",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "rental-administrator",
+      "name": "Rental Administrator",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "rental-agent",
+      "name": "Rental Agent",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "research-consultant",
+      "name": "Research Consultant",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "reservations-manager",
+      "name": "Reservations Manager",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "residential-builder",
+      "name": "Residential Builder",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "residential-property-agent",
+      "name": "Residential Property Agent",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "restaurant-manager",
+      "name": "Restaurant Manager",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "restaurant-owner",
+      "name": "Restaurant Owner",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": [
+        "restaurateur"
+      ]
+    },
+    {
+      "id": "retail-franchisee",
+      "name": "Retail Franchisee",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "retail-manager",
+      "name": "Retail Manager",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "retail-store-owner",
+      "name": "Retail Store Owner",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "rideshare-driver",
+      "name": "Rideshare Driver",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "risk-consultant",
+      "name": "Risk Consultant",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "roadworks-contractor",
+      "name": "Roadworks Contractor",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "roofing-contractor",
+      "name": "Roofing Contractor",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "route-planner",
+      "name": "Route Planner",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "safari-lodge-owner",
+      "name": "Safari Lodge Owner",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "safety-officer",
+      "name": "Safety Officer",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "sales-administrator",
+      "name": "Sales Administrator",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "sales-director",
+      "name": "Sales Director",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "sales-manager",
+      "name": "Sales Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "sales-representative",
+      "name": "Sales Representative",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "satellite-dish-installer",
+      "name": "Satellite Dish Installer",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "scaffolding-contractor",
+      "name": "Scaffolding Contractor",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "school-administrator",
+      "name": "School Administrator",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "school-principal",
+      "name": "School Principal",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "seamstress",
+      "name": "Seamstress",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "search-marketing-specialist",
+      "name": "Search Marketing Specialist",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "second-hand-goods-trader",
+      "name": "Second-Hand Goods Trader",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "sectional-title-manager",
+      "name": "Sectional Title Manager",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "security-analyst",
+      "name": "Security Analyst",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "security-guard-service-manager",
+      "name": "Security Guard Service Manager",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "security-operations-manager",
+      "name": "Security Operations Manager",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "security-services-company-owner",
+      "name": "Security Services Company Owner",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "security-systems-installer",
+      "name": "Security Systems Installer",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "seed-distributor",
+      "name": "Seed Distributor",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "self-employed-professional",
+      "name": "Self-Employed Professional",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "seo-consultant",
+      "name": "SEO Consultant",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "service-desk-manager",
+      "name": "Service Desk Manager",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "service-scheduler",
+      "name": "Service Scheduler",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "sheep-farmer",
+      "name": "Sheep Farmer",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "shift-supervisor",
+      "name": "Shift Supervisor",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "shipping-agent",
+      "name": "Shipping Agent",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "shoe-repairer",
+      "name": "Shoe Repairer",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "shop-assistant",
+      "name": "Shop Assistant",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "shop-owner",
+      "name": "Shop Owner",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "shopfitting-contractor",
+      "name": "Shopfitting Contractor",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "short-term-insurance-broker",
+      "name": "Short-Term Insurance Broker",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "short-term-rental-manager",
+      "name": "Short-Term Rental Manager",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "shutdown-coordinator",
+      "name": "Shutdown Coordinator",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "side-hustle-owner",
+      "name": "Side Hustle Owner",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "signage-designer",
+      "name": "Signage Designer",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "site-contract-administrator",
+      "name": "Site Contract Administrator",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "site-foreman",
+      "name": "Site Foreman",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "site-manager",
+      "name": "Site Manager",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "skills-development-facilitator",
+      "name": "Skills Development Facilitator",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "small-business-owner",
+      "name": "Small Business Owner",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "smallholder-farmer",
+      "name": "Smallholder Farmer",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "sme-manager",
+      "name": "SME Manager",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "sme-owner",
+      "name": "SME Owner",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": [
+        "small medium enterprise owner",
+        "small business leader"
+      ]
+    },
+    {
+      "id": "social-enterprise-founder",
+      "name": "Social Enterprise Founder",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "social-media-manager",
+      "name": "Social Media Manager",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "social-worker-practice-owner",
+      "name": "Social Worker Practice Owner",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "software-developer",
+      "name": "Software Developer",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "software-engineer",
+      "name": "Software Engineer",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "solar-installation-business-owner",
+      "name": "Solar Installation Business Owner",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "solar-installer",
+      "name": "Solar Installer",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": [
+        "solar installation",
+        "solar panel installer"
+      ]
+    },
+    {
+      "id": "solar-technician",
+      "name": "Solar Technician",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "sole-proprietor",
+      "name": "Sole Proprietor",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": [
+        "sole prop",
+        "sole trader",
+        "single person business"
+      ]
+    },
+    {
+      "id": "solo-entrepreneur",
+      "name": "Solo Entrepreneur",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "solution-architect",
+      "name": "Solution Architect",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "spa-manager",
+      "name": "Spa Manager",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "spa-owner",
+      "name": "Spa Owner",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "spaza-shop-owner",
+      "name": "Spaza Shop Owner",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": [
+        "spaza shop",
+        "tuck shop"
+      ]
+    },
+    {
+      "id": "speech-therapy-practice-owner",
+      "name": "Speech Therapy Practice Owner",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "sports-club-administrator",
+      "name": "Sports Club Administrator",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "sports-club-manager",
+      "name": "Sports Club Manager",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "sports-therapist",
+      "name": "Sports Therapist",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "stock-controller",
+      "name": "Stock Controller",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "store-manager",
+      "name": "Store Manager",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "store-supervisor",
+      "name": "Store Supervisor",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "strategy-consultant",
+      "name": "Strategy Consultant",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "street-food-seller",
+      "name": "Street Food Seller",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "street-vendor",
+      "name": "Street Vendor",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "structural-engineer",
+      "name": "Structural Engineer",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "student-services-administrator",
+      "name": "Student Services Administrator",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "subcontractor-manager",
+      "name": "Subcontractor Manager",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "supermarket-manager",
+      "name": "Supermarket Manager",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "supply-chain-consultant",
+      "name": "Supply Chain Consultant",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "supply-chain-director",
+      "name": "Supply Chain Director",
+      "group": "leadership-management-and-enterprise",
+      "sector": "enterprise",
+      "industryPage": "business-types.html#enterprise-business",
+      "aliases": []
+    },
+    {
+      "id": "supply-chain-manager",
+      "name": "Supply Chain Manager",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "supply-chain-planner",
+      "name": "Supply Chain Planner",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "sustainability-consultant",
+      "name": "Sustainability Consultant",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "systems-administrator",
+      "name": "Systems Administrator",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "tailor",
+      "name": "Tailor",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "takeaway-owner",
+      "name": "Takeaway Owner",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "tax-consultant",
+      "name": "Tax Consultant",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "tax-practitioner",
+      "name": "Tax Practitioner",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "technical-project-manager",
+      "name": "Technical Project Manager",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "technical-trainer",
+      "name": "Technical Trainer",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "technology-account-manager",
+      "name": "Technology Account Manager",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "technology-reseller",
+      "name": "Technology Reseller",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "telecommunications-installer",
+      "name": "Telecommunications Installer",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "textile-manufacturer",
+      "name": "Textile Manufacturer",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "tile-repair-contractor",
+      "name": "Tile Repair Contractor",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "tiler",
+      "name": "Tiler",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "toolmaker",
+      "name": "Toolmaker",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "tour-guide",
+      "name": "Tour Guide",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "tour-operator",
+      "name": "Tour Operator",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "training-company-owner",
+      "name": "Training Company Owner",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "training-consultant",
+      "name": "Training Consultant",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "training-coordinator",
+      "name": "Training Coordinator",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "training-manager",
+      "name": "Training Manager",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "training-operations-manager",
+      "name": "Training Operations Manager",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "training-provider",
+      "name": "Training Provider",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "translator",
+      "name": "Translator",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "transport-coordinator",
+      "name": "Transport Coordinator",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "transport-manager",
+      "name": "Transport Manager",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "transport-operator",
+      "name": "Transport Operator",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "travel-agency-owner",
+      "name": "Travel Agency Owner",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "travel-consultant",
+      "name": "Travel Consultant",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "tree-feller",
+      "name": "Tree Feller",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "trust-administrator",
+      "name": "Trust Administrator",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "turnaround-manager",
+      "name": "Turnaround Manager",
+      "group": "mining-and-industrial-services",
+      "sector": "07",
+      "industryPage": "industry-07.html",
+      "aliases": []
+    },
+    {
+      "id": "tutor",
+      "name": "Tutor",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "tutoring-centre-owner",
+      "name": "Tutoring Centre Owner",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "tv-installer",
+      "name": "TV Installer",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "ui-designer",
+      "name": "UI Designer",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "university-administrator",
+      "name": "University Administrator",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "upholsterer",
+      "name": "Upholsterer",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "ux-designer",
+      "name": "UX Designer",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "valuation-consultant",
+      "name": "Valuation Consultant",
+      "group": "property-and-real-estate",
+      "sector": "08",
+      "industryPage": "industry-08.html",
+      "aliases": []
+    },
+    {
+      "id": "valuer",
+      "name": "Valuer",
+      "group": "professional-services",
+      "sector": "01",
+      "industryPage": "industry-01.html",
+      "aliases": []
+    },
+    {
+      "id": "vegetable-grower",
+      "name": "Vegetable Grower",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "venue-manager",
+      "name": "Venue Manager",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "video-editor",
+      "name": "Video Editor",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "video-producer",
+      "name": "Video Producer",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "videographer",
+      "name": "Videographer",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "vineyard-manager",
+      "name": "Vineyard Manager",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "virtual-assistant",
+      "name": "Virtual Assistant",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "vocational-trainer",
+      "name": "Vocational Trainer",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "voip-technician",
+      "name": "VoIP Technician",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "volunteer-coordinator",
+      "name": "Volunteer Coordinator",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    },
+    {
+      "id": "warehouse-manager",
+      "name": "Warehouse Manager",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": [
+        "warehouse operation"
+      ]
+    },
+    {
+      "id": "warehouse-operator",
+      "name": "Warehouse Operator",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "warehouse-owner",
+      "name": "Warehouse Owner",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "warehouse-supervisor",
+      "name": "Warehouse Supervisor",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "washing-machine-repair-technician",
+      "name": "Washing Machine Repair Technician",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "waste-removal-contractor",
+      "name": "Waste Removal Contractor",
+      "group": "logistics-and-field-services",
+      "sector": "11",
+      "industryPage": "industry-11.html",
+      "aliases": []
+    },
+    {
+      "id": "waterproofing-contractor",
+      "name": "Waterproofing Contractor",
+      "group": "construction-and-contracting",
+      "sector": "05",
+      "industryPage": "industry-05.html",
+      "aliases": []
+    },
+    {
+      "id": "web-designer",
+      "name": "Web Designer",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "web-developer",
+      "name": "Web Developer",
+      "group": "it-and-managed-services",
+      "sector": "02",
+      "industryPage": "industry-02.html",
+      "aliases": []
+    },
+    {
+      "id": "wedding-celebrant",
+      "name": "Wedding Celebrant",
+      "group": "one-person-and-independent-businesses",
+      "sector": "15",
+      "industryPage": "industry-15.html",
+      "aliases": []
+    },
+    {
+      "id": "wedding-planner",
+      "name": "Wedding Planner",
+      "group": "marketing-media-and-creative-work",
+      "sector": "10",
+      "industryPage": "industry-10.html",
+      "aliases": []
+    },
+    {
+      "id": "wedding-venue-owner",
+      "name": "Wedding Venue Owner",
+      "group": "hospitality-food-and-accommodation",
+      "sector": "12",
+      "industryPage": "industry-12.html",
+      "aliases": []
+    },
+    {
+      "id": "welder",
+      "name": "Welder",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "wellness-centre-owner",
+      "name": "Wellness Centre Owner",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "wellness-practitioner",
+      "name": "Wellness Practitioner",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "wholesale-manager",
+      "name": "Wholesale Manager",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "wholesaler",
+      "name": "Wholesaler",
+      "group": "retail-wholesale-and-distribution",
+      "sector": "04",
+      "industryPage": "industry-04.html",
+      "aliases": []
+    },
+    {
+      "id": "window-cleaner",
+      "name": "Window Cleaner",
+      "group": "repairs-installations-and-maintenance",
+      "sector": "14",
+      "industryPage": "industry-14.html",
+      "aliases": []
+    },
+    {
+      "id": "winery-owner",
+      "name": "Winery Owner",
+      "group": "agriculture-farming-and-agribusiness",
+      "sector": "13",
+      "industryPage": "industry-13.html",
+      "aliases": []
+    },
+    {
+      "id": "workshop-facilitator",
+      "name": "Workshop Facilitator",
+      "group": "education-training-and-skills",
+      "sector": "09",
+      "industryPage": "industry-09.html",
+      "aliases": []
+    },
+    {
+      "id": "workshop-manager",
+      "name": "Workshop Manager",
+      "group": "manufacturing-and-production",
+      "sector": "03",
+      "industryPage": "industry-03.html",
+      "aliases": []
+    },
+    {
+      "id": "yoga-instructor",
+      "name": "Yoga Instructor",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "yoga-studio-owner",
+      "name": "Yoga Studio Owner",
+      "group": "healthcare-and-wellness-administration",
+      "sector": "06",
+      "industryPage": "industry-06.html",
+      "aliases": []
+    },
+    {
+      "id": "youth-programme-manager",
+      "name": "Youth Programme Manager",
+      "group": "nonprofits-and-community-organisations",
+      "sector": "16",
+      "industryPage": "industry-16.html",
+      "aliases": []
+    }
+  ],
+  "groups": [
+    {
+      "id": "professional-services",
+      "title": "Professional services",
+      "link": "industry-01.html",
+      "scenario": "A client asks for advice or a deliverable. The value is keeping the brief, agreed fee, work, approval and invoice together.",
+      "steps": [
+        "Enquiry and scope",
+        "Approved proposal",
+        "Scheduled work",
+        "Deliverables and sign-off",
+        "Invoice and follow-up"
+      ]
+    },
+    {
+      "id": "it-and-managed-services",
+      "title": "IT and managed services",
+      "link": "industry-02.html",
+      "scenario": "A client needs technology supplied, installed or supported. Keep the request, price, engineer, device, supplier and resolution connected.",
+      "steps": [
+        "Service enquiry",
+        "Proposal or support commitment",
+        "Engineer assignment",
+        "Equipment and service delivery",
+        "Billing and renewal"
+      ]
+    },
+    {
+      "id": "manufacturing-and-production",
+      "title": "Manufacturing and production",
+      "link": "industry-03.html",
+      "scenario": "An order depends on materials, production capacity, inspection, dispatch and payment. Preserve the chain from promise to delivered goods.",
+      "steps": [
+        "Customer order",
+        "Materials and production plan",
+        "Work orders",
+        "Inspection and dispatch",
+        "Invoice and cost review"
+      ]
+    },
+    {
+      "id": "retail-wholesale-and-distribution",
+      "title": "Retail, wholesale and distribution",
+      "link": "industry-04.html",
+      "scenario": "A customer buys or orders something. Stock, suppliers, fulfilment and the resulting money must agree.",
+      "steps": [
+        "Customer demand",
+        "Availability and quote",
+        "Procurement or allocation",
+        "Picking and delivery",
+        "Payment and replenishment"
+      ]
+    },
+    {
+      "id": "construction-and-contracting",
+      "title": "Construction and contracting",
+      "link": "industry-05.html",
+      "scenario": "An accepted job has scope, people, materials, variations and claims. Keep those decisions together as the site changes.",
+      "steps": [
+        "Site enquiry",
+        "Priced scope and approval",
+        "Crew and materials plan",
+        "Progress and variations",
+        "Claims and payment"
+      ]
+    },
+    {
+      "id": "healthcare-and-wellness-administration",
+      "title": "Healthcare and wellness administration",
+      "link": "industry-06.html",
+      "scenario": "A service enquiry becomes an appointment, a resource commitment and a financial record. Keep non-clinical administration dependable.",
+      "steps": [
+        "Enquiry and booking",
+        "Staff and room readiness",
+        "Service administration",
+        "Supplies and follow-up",
+        "Billing and oversight"
+      ]
+    },
+    {
+      "id": "mining-and-industrial-services",
+      "title": "Mining and industrial services",
+      "link": "industry-07.html",
+      "scenario": "A site obligation needs an agreed scope, access, people, equipment and completion evidence before billing.",
+      "steps": [
+        "Site request",
+        "Commercial approval",
+        "Mobilisation and procurement",
+        "Field completion evidence",
+        "Invoice and contract review"
+      ]
+    },
+    {
+      "id": "property-and-real-estate",
+      "title": "Property and real estate",
+      "link": "industry-08.html",
+      "scenario": "A buyer, seller, tenant or landlord makes a request. Each viewing, follow-up, service job and financial decision needs an owner.",
+      "steps": [
+        "Client enquiry",
+        "Viewing or property assignment",
+        "Follow-up and documents",
+        "Contractor or transaction coordination",
+        "Commercial record and next action"
+      ]
+    },
+    {
+      "id": "education-training-and-skills",
+      "title": "Education, training and skills",
+      "link": "industry-09.html",
+      "scenario": "A learning commitment is a promise about dates, trainers, people, materials and results. Run that operational programme coherently.",
+      "steps": [
+        "Programme enquiry",
+        "Agreed quote and dates",
+        "People and venue preparation",
+        "Session delivery and evidence",
+        "Invoice and programme review"
+      ]
+    },
+    {
+      "id": "marketing-media-and-creative-work",
+      "title": "Marketing, media and creative work",
+      "link": "industry-10.html",
+      "scenario": "A client brief becomes scoped creative work, reviews, sign-off and an agreed fee. Keep feedback and deadlines from drifting.",
+      "steps": [
+        "Creative brief",
+        "Approved scope",
+        "Production assignment",
+        "Client review and sign-off",
+        "Invoice and profitability"
+      ]
+    },
+    {
+      "id": "logistics-and-field-services",
+      "title": "Logistics and field services",
+      "link": "industry-11.html",
+      "scenario": "A delivery or field request needs a slot, the right person, proof of completion and the right invoice.",
+      "steps": [
+        "Service order",
+        "Resource and route plan",
+        "Supplier or stock readiness",
+        "Dispatch and proof of delivery",
+        "Invoice and exception follow-up"
+      ]
+    },
+    {
+      "id": "hospitality-food-and-accommodation",
+      "title": "Hospitality, food and accommodation",
+      "link": "industry-12.html",
+      "scenario": "A booking or order is a promise to deliver a dependable experience. Connect reservations, people, stock, suppliers and money.",
+      "steps": [
+        "Guest or customer request",
+        "Confirmation and preparation",
+        "Staff and stock readiness",
+        "Service and guest follow-up",
+        "Invoice and margin view"
+      ]
+    },
+    {
+      "id": "agriculture-farming-and-agribusiness",
+      "title": "Agriculture, farming and agribusiness",
+      "link": "industry-13.html",
+      "scenario": "A seasonal plan depends on people, equipment, inputs, harvesting or service delivery and payment.",
+      "steps": [
+        "Demand or seasonal plan",
+        "Inputs and staff scheduling",
+        "Field or production work",
+        "Delivery and cost evidence",
+        "Customer billing and next cycle"
+      ]
+    },
+    {
+      "id": "repairs-installations-and-maintenance",
+      "title": "Repairs, installations and maintenance",
+      "link": "industry-14.html",
+      "scenario": "A broken asset or new installation starts with a request and ends when the customer has evidence of completion and knows what to pay.",
+      "steps": [
+        "Fault or installation request",
+        "Diagnosis and quote",
+        "Parts and booking",
+        "Work and customer sign-off",
+        "Invoice and future history"
+      ]
+    },
+    {
+      "id": "one-person-and-independent-businesses",
+      "title": "One-person and independent businesses",
+      "link": "industry-15.html",
+      "scenario": "One person is responsible for finding the client, doing the job and getting paid. The working day should feel manageable.",
+      "steps": [
+        "New enquiry",
+        "Simple quote or booking",
+        "Work and reminders",
+        "Invoice and costs",
+        "Tomorrow’s priorities"
+      ]
+    },
+    {
+      "id": "nonprofits-and-community-organisations",
+      "title": "Nonprofits and community organisations",
+      "link": "industry-16.html",
+      "scenario": "A programme promise must be matched by people, spending, completed work and an honest account to those supporting it.",
+      "steps": [
+        "Supporter or beneficiary need",
+        "Programme and budget",
+        "Team or volunteer work",
+        "Delivery evidence",
+        "Financial and impact review"
+      ]
+    },
+    {
+      "id": "leadership-management-and-enterprise",
+      "title": "Leadership, management and enterprise",
+      "link": "business-types.html#enterprise-business",
+      "scenario": "A leader wants to understand commitments, execution, accountability and money without rebuilding the truth each Friday.",
+      "steps": [
+        "Operating plan",
+        "Governed commitments",
+        "Cross-team execution",
+        "Financial oversight",
+        "Evidence-based decisions"
+      ]
+    }
+  ],
+  "special": {
+    "gardener": {
+      "title": "A gardener should finish the day knowing tomorrow’s jobs and which clients still need an invoice.",
+      "story": "You receive a WhatsApp message while cutting a lawn. Another customer wants a once-off clean-up. You need a quote, a date, enough help, and a reminder to bill. That should not require five systems or a late-night memory test.",
+      "steps": [
+        "Keep the customer, address and preferred visit pattern together",
+        "Estimate the job and capture what the customer accepted",
+        "See the day’s route and the work still to be done",
+        "Record completion, travel or materials in the same job history",
+        "Follow the invoice and set the next repeat visit"
+      ]
+    },
+    "estate agent": {
+      "title": "An estate agent should never lose a viewing, a client conversation or the next follow-up.",
+      "story": "A potential buyer calls after a viewing. A seller wants feedback and a landlord has a maintenance query. These are three different commitments, but each needs a responsible next step and a history you can actually find.",
+      "steps": [
+        "Capture buyer, seller and landlord relationships clearly",
+        "Set the viewing or follow-up with its owner and due date",
+        "Retain the agreed correspondence and administrative actions",
+        "Connect property-related jobs to the contractor and approval trail",
+        "Review what is outstanding before the next client conversation"
+      ]
+    },
+    "plumber": {
+      "title": "A plumber should move from the first call to a paid, properly recorded job.",
+      "story": "A client sends a picture of a leaking pipe. You need to assess urgency, quote a visit, bring the right parts, document the work and invoice. The useful software is the software that follows that job through.",
+      "steps": [
+        "Record the fault, property and urgency",
+        "Agree the visit and scope before promising a fixed repair price",
+        "Confirm parts, supplier needs and technician availability",
+        "Document the work and any follow-up the customer accepted",
+        "Invoice against the completed visit and track the payment"
+      ]
+    },
+    "property manager": {
+      "title": "A property manager should see every open obligation across landlords, tenants and contractors.",
+      "story": "A tenant reports a broken gate, a landlord approves a quote and the contractor says the repair is finished. The missing piece is often not effort; it is the complete, reliable history of the job.",
+      "steps": [
+        "Capture the request and the affected property",
+        "Assign responsibility and confirm owner or landlord approvals",
+        "Compare supplier quotes and schedule the contractor",
+        "Record completion evidence and any tenant follow-up",
+        "Reconcile the cost and outstanding administration"
+      ]
+    },
+    "ceo": {
+      "title": "A chief executive should see business priorities and their financial consequences without chasing five reports.",
+      "story": "Sales look healthy, but open jobs, supplier commitments and outstanding receipts tell the more important story. Leadership needs decisions backed by connected source records.",
+      "steps": [
+        "Agree the operating priorities and the measures that matter",
+        "Make commitments and delegated authority visible",
+        "Track execution across sales, work, purchasing and people",
+        "Review receivables, obligations, exceptions and current cash exposure",
+        "Follow each decision back to the actual record and responsible owner"
+      ]
+    },
+    "qse business owner": {
+      "title": "A growing QSE owner needs enterprise discipline without enterprise-level complexity.",
+      "story": "You have passed the stage where the owner can remember every quote, supplier and customer payment. Your challenge is to delegate and keep control, while retaining the everyday simplicity the team needs.",
+      "steps": [
+        "Turn the accepted quote into a clear operating commitment",
+        "Give teams ownership and approval boundaries",
+        "Connect procurement, stock and staff assignments to work",
+        "Monitor the cash consequences and unresolved exceptions",
+        "Review growth decisions using traceable business evidence"
+      ]
+    },
+    "accountant": {
+      "title": "An accountant needs financial clarity tied to the work that created each transaction.",
+      "story": "A client asks why a payment is unmatched. Another asks which job drove the invoice. Rather than reconstructing a trail, you should see the originating commercial and operational record.",
+      "steps": [
+        "Identify the client, period and underlying source transactions",
+        "Review invoices, receipts, allocations and exceptions",
+        "Investigate mismatches against approved business records",
+        "Record accountable corrections and evidence",
+        "Provide a transparent position without duplicating spreadsheets"
+      ]
+    },
+    "spaza shop owner": {
+      "title": "A spaza shop owner should know what sold, what to buy and what money is available.",
+      "story": "Stock sells quickly, some customers buy on account and a supplier arrives with new prices. Simple records should make the next purchase and the end-of-day picture easier, not harder.",
+      "steps": [
+        "Track key items and the prices you sell at",
+        "Know the stock that needs replenishment",
+        "Record supplier purchases and the amounts still owed",
+        "Understand sales, customer balances and daily cash",
+        "Make the next buying decision from current information"
+      ]
+    }
+  },
+  "stages": [
+    {
+      "id": "solo",
+      "label": "Working for myself",
+      "heading": "Keep the day simple",
+      "story": "Find your next customer action, the work you promised and the invoices you still need to send. You do not need a department or technical vocabulary to follow a business journey.",
+      "next": "business-types.html#sole-operators"
+    },
+    {
+      "id": "micro",
+      "label": "Microbusiness / EME",
+      "heading": "Bring the first team together",
+      "story": "As jobs and customer conversations grow, the business needs one understandable picture and basic handoffs. EME is a separate B-BBEE classification, subject to the applicable code.",
+      "next": "business-types.html#microbusiness"
+    },
+    {
+      "id": "sme",
+      "label": "Small or growing SME",
+      "heading": "Stay in control as work grows",
+      "story": "Connect customer demand, quotations, fulfilment, expenses and staff responsibility without creating disconnected islands of software.",
+      "next": "business-types.html#sme-business"
+    },
+    {
+      "id": "qse",
+      "label": "QSE (B-BBEE category)",
+      "heading": "Add discipline without losing agility",
+      "story": "A Qualifying Small Enterprise commonly sits between R10 million and R50 million annual turnover under the generic B-BBEE Codes, but sector-code thresholds can differ. QSE is a B-BBEE classification, not a separate technology feature or universal business-size label.",
+      "next": "business-types.html#qse-business"
+    },
+    {
+      "id": "medium",
+      "label": "Medium-sized business",
+      "heading": "Connect functions and managers",
+      "story": "Organise approvals, departments, shared resources, purchasing and financial decisions in one operating context. National enterprise-size thresholds vary by sector.",
+      "next": "business-types.html#medium-business"
+    },
+    {
+      "id": "enterprise",
+      "label": "Large / enterprise organisation",
+      "heading": "Make authority and evidence visible",
+      "story": "Coordinate multiple departments and sites with role-based access, governance, traceability and controlled deployment scope. Enterprise suitability remains subject to qualification.",
+      "next": "business-types.html#enterprise-business"
+    }
+  ],
+  "version": "WEB01 V4-R3 | 16 November 2026",
+  "legal": "B-BBEE Commission: https://www.bbbeecommission.co.za/frequently-asked-questions/how-is-b-bbee-classification-determined/"
+}
